@@ -1,2 +1,3 @@
 # Grammatrix-FBLA-Video-Game-for-SLC
-FBLA Video game made for SLC 2022-2023
+FBLA Video game made for SLC 2022-2023 by Abhijay Venkatesh
+This video game is made according to the 2022-2023 Computer Game & Simulation topic. In the game, there are 4 levels: One where words of random size spawn, one where only 5 letter words spawn, one where only 7 letter words spawn, and one where only 9 letter words spawn. The goal of the game is to survive each level as long as possible by typing each word on screen completely so that it is destroyed. If a word manages to fall off screen without being typed, you lose. You gain a point each time you completely spell a word. High scores can be seen after pressing the Scoreboard button on the main menu. Instructions for how to play can be seen after pressing the How To Play button in the main menu.
